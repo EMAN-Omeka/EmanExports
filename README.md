@@ -13,7 +13,7 @@ This last format is currently being designed. As of now it is strictly equivalen
 
 ## Credits
 
-This plugin is being developed with the support of the [Cahiers] (http://cahier.hypotheses.org/) consortium.
+This plugin is being developed with the support of the [Cahiers](http://cahier.hypotheses.org/) consortium.
 
 ## License
 
