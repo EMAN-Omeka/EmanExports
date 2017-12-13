@@ -11,6 +11,10 @@ It offers the same functionality but :
 
 This last format is currently being designed. As of now it is strictly equivalent to the omeka-xml format.
 
+## Credits
+
+This plugin is being developed with the support of the [Cahiers] (http://cahier.hypotheses.org/) consortium.
+
 ## License
 
 This plugin is licensed under Apache License 2.0.
