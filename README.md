@@ -6,7 +6,7 @@ This is a modified version of the CSV Export module [CSV Export plugin](http://o
 
 It offers the same functionality but :
 
-- the produced files include all the result pages (and not just the currently displayed one).
+- the produced files include all the result pages (and not just the currently displayed one) for the csv and XML-TEI formats.
 - it offers an XML-TEI export format.
 
 This last format is currently being designed. As of now it is strictly equivalent to the omeka-xml format.
