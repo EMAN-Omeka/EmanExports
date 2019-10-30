@@ -15,6 +15,8 @@ This last format is currently being designed. As of now it is strictly equivalen
 
 This plugin is being developed with the support of the [Cahiers](http://cahier.hypotheses.org/) consortium.
 
+Plugin réalisé pour la plate-forme EMAN (Item, ENS-CNRS) par Vincent Buard [(Numerizen)](http://numerizen.com).
+
 ## License
 
 This plugin is licensed under Apache License 2.0.
